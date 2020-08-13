@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my portfolio
+
+My name is Kyle Castaldi and I live in Staunton, Illinois
 
 You can use the [editor on GitHub](https://github.com/kcastaldi/kcastaldi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
