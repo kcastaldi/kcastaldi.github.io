@@ -1,28 +1,18 @@
-## Welcome everyone
+# Welcome everyone
 
 My name is Kyle Castaldi and I live in Staunton, Illinois.
 I served 4 years in the Army as an Infantryman and served 4 years in the Illinois National Guard.  I have one combat tour under my belt when I went to Afghanistan in 2013.  I've also been to Singapore to help train their soldiers.  
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Hobbies
 
 ```markdown
-Syntax highlighted code block
+Gaming
+Hiking
+Exploring
+Going to the gym
+Spending time with loved ones 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
