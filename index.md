@@ -7,20 +7,20 @@ I served 4 years in the Army as an Infantryman and served 4 years in the Illinoi
 
 ```markdown
 Gaming
-Hiking
-Exploring
-Going to the gym
-Spending time with loved ones 
 
-and ![Image](src)
+Hiking
+
+Exploring
+
+Going to the gym
+
+Spending time with loved ones 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Current job
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kcastaldi/kcastaldi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Recently I was hired by the Staunton School District as a Technology Assistant to help the Technology Director.  Because of the courses I took at Southern New Hampshire University I was able to obtain a job in my career field. 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Skills
+Teamwork, adaptability, time management, strategic thinking, attentive to detail, respect for others, coaching, critical thinking, self-discipline, fast-paced learner, Java script, SQL, Linux, Python, C++, C#, knowledge of internal and external hardware of computers
