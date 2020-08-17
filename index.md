@@ -18,7 +18,7 @@ Spending time with loved ones
 ```
 
 
-### Current job
+### Current position
 
 Recently I was hired by the Staunton School District as a Technology Assistant to help the Technology Director.  Because of the courses I took at Southern New Hampshire University I was able to obtain a job in my career field. 
 
