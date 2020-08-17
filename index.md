@@ -1,10 +1,7 @@
-## Welcome to my portfolio
+## Welcome everyone
 
-My name is Kyle Castaldi and I live in Staunton, Illinois
-
-You can use the [editor on GitHub](https://github.com/kcastaldi/kcastaldi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Kyle Castaldi and I live in Staunton, Illinois.
+I served 4 years in the Army as an Infantryman and served 4 years in the Illinois National Guard.  I have one combat tour under my belt when I went to Afghanistan in 2013.  I've also been to Singapore to help train their soldiers.  
 
 ### Markdown
 
